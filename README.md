@@ -2,9 +2,9 @@
 A hybrid U-Net architecture that integrates frequency-domain features (via FFT) with attention mechanisms to improve medical image segmentation
 
 # DeepGlove-FFT-Attention-U-Net-for-Medical-Image-Segmentation
-A hybrid U-Net architecture that integrates frequency-domain features (via FFT) with attention mechanisms to improve medical image segmentation
+A hybrid U-Net architecture that integrates frequency-domain features (via FFT) with attention mechanisms to improve DeepGlove image segmentation
 
-This project implements a **U-Net architecture enhanced with FFT-based frequency features and attention mechanisms** to improve medical image segmentation accuracy.  
+This project implements a **U-Net architecture enhanced with FFT-based frequency features and attention mechanisms** to improve DeepGlove image segmentation accuracy.  
 It demonstrates how combining **spatial and frequency-domain features** can lead to more precise segmentation results.  
 
 ---
@@ -20,11 +20,11 @@ It demonstrates how combining **spatial and frequency-domain features** can lead
 ## 🖼️ Sample Results
 
 ### 1. Sample Input and Segmentation
-![Sample Input and Segmentation](path/to/sample_input_segmentation.png)  
-*Left: Original medical image, Right: Segmentation output by DeepGlove-FFT-Attention-U-Net*
+![Sample Input and Segmentation](DeepGlove FFT-Attention U_Net for Medical Image Segmentation/inm.jpg)  
+*Left: Original DeepGlove image, Right: Segmentation output by DeepGlove-FFT-Attention-U-Net*
 
 ### 2. IoU Performance Visualization
-![IoU Performance](path/to/iou_plot.png)  
+![IoU Performance](DeepGlove FFT-Attention U_Net for Medical Image Segmentation/iou.jpg)  
 *Intersection-over-Union (IoU) score plot showing segmentation performance across validation images.*
 
 ---
