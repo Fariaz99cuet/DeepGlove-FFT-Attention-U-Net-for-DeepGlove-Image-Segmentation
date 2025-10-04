@@ -1,7 +1,4 @@
-# DeepGlove-FFT-Attention-U-Net-for-Medical-Image-Segmentation
-A hybrid U-Net architecture that integrates frequency-domain features (via FFT) with attention mechanisms to improve medical image segmentation
-
-# DeepGlove-FFT-Attention-U-Net-for-Medical-Image-Segmentation
+# DeepGlove-FFT-Attention-U-Net-for-DeepGlove-Image-Segmentation
 A hybrid U-Net architecture that integrates frequency-domain features (via FFT) with attention mechanisms to improve DeepGlove image segmentation
 
 This project implements a **U-Net architecture enhanced with FFT-based frequency features and attention mechanisms** to improve DeepGlove image segmentation accuracy.  
