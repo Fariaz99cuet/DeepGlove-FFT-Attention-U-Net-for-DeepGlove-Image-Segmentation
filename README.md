@@ -17,11 +17,11 @@ It demonstrates how combining **spatial and frequency-domain features** can lead
 ## 🖼️ Sample Results
 
 ### 1. Sample Input and Segmentation
-![Sample Input and Segmentation]("DeepGlove FFT-Attention U_Net for DeepGlove Image Segmentation/inm.jpg")  
+![Sample Input and Segmentation]("DeepGlove_FFT_Attention_U_Net_for_DeepGlove_Image_Segmentation/inm.jpg")  
 *Left: Original DeepGlove image, Right: Segmentation output by DeepGlove-FFT-Attention-U-Net*
 
 ### 2. IoU Performance Visualization
-![IoU Performance]("DeepGlove FFT-Attention U_Net for DeepGlove Image Segmentation/iou.jpg")  
+![IoU Performance]("DeepGlove_FFT_Attention_U_Net_for_DeepGlove_Image_Segmentation/iou.jpg")  
 *Intersection-over-Union (IoU) score plot showing segmentation performance across validation images.*
 
 
